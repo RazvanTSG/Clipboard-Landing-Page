@@ -16,6 +16,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Built with
 
+- Grid
 - HTML
 - CSS
 - Flexbox
