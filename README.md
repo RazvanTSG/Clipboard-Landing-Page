@@ -11,8 +11,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/clipboard-landing-page-using-flexbox-and-grid-wHZg8IoH8-
+- Live Site URL: https://razvantsg.github.io/Clipboard-Landing-Page/
 
 ### Built with
 
